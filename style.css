@@ -1,0 +1,57 @@
+body{
+    background:#8b0000;
+    color:white;
+    font-family:Times New Roman;
+  }
+  
+  h1{
+    font-size:35px;
+    margin: 10px;
+    display:block;
+    font-weight:bold;
+  }
+  
+  
+  
+  #main{
+    text-align: center;
+    background:black;
+   }
+  
+  #img-div{
+    width:auto;
+    height:auto;
+    max-width:1000px;
+    text-align: center;
+    background:#b22222; 
+  
+  }
+  
+  #image{
+    width:100%;
+    height:auto;
+    max-width:540px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+  }
+  #img-caption{
+    font-size: 20px;
+    font-style:bold;
+    display:block;
+  }
+  
+  #tribute-info{
+   text:align-center;
+   display: inline-block;   
+  }
+  ul {
+    display: inline-block;
+  }
+  li{
+    text-align: left;
+  }
+  #quote{
+    font-style:italic;
+    font-weight:bold;
+  }
